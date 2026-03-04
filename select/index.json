@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Too Little, Too Late",
+  "base_artist": "Laufey",
+  "createdAt": "2026-03-04T14:32:39.575606Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Too Little Too Late",
+      "artist": "Hoobastank",
+      "has_synced": true,
+      "path": "select/01_Too_Little_Too_Late_Hoobastank.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Too Little Too Late",
+      "artist": "JoJo",
+      "has_synced": true,
+      "path": "select/02_Too_Little_Too_Late_JoJo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Too Little, Too Late",
+      "artist": "JoJo",
+      "has_synced": true,
+      "path": "select/03_Too_Little,_Too_Late_JoJo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Too Little Too Late",
+      "artist": "Hoobastank",
+      "has_synced": true,
+      "path": "select/04_Too_Little_Too_Late_Hoobastank.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Too Little Too Late",
+      "artist": "JoJo",
+      "has_synced": true,
+      "path": "select/05_Too_Little_Too_Late_JoJo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Too Little Too Late",
+      "artist": "Jojo",
+      "has_synced": true,
+      "path": "select/06_Too_Little_Too_Late_Jojo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Too Little, Too Late",
+      "artist": "Transit",
+      "has_synced": true,
+      "path": "select/07_Too_Little,_Too_Late_Transit.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Too Little Too Late",
+      "artist": "Hoobastank",
+      "has_synced": true,
+      "path": "select/08_Too_Little_Too_Late_Hoobastank.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Too Little Too Late",
+      "artist": "JoJo",
+      "has_synced": true,
+      "path": "select/09_Too_Little_Too_Late_JoJo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Too Little Too Late",
+      "artist": "Teksuo",
+      "has_synced": true,
+      "path": "select/10_Too_Little_Too_Late_Teksuo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "too little too late",
+      "artist": "JoJo",
+      "has_synced": true,
+      "path": "select/11_too_little_too_late_JoJo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Too Little Too Late",
+      "artist": "JoJo",
+      "has_synced": true,
+      "path": "select/12_Too_Little_Too_Late_JoJo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Too Little, Too Late",
+      "artist": "Laufey",
+      "has_synced": true,
+      "path": "select/13_Too_Little,_Too_Late_Laufey.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Too Little, Too Late",
+      "artist": "Laufey",
+      "has_synced": false,
+      "path": "select/pl_01_Too_Little,_Too_Late_Laufey.txt"
+    }
+  ]
+}
